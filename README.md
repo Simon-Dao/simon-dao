@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Specialization(Coursera)**
 
-- I'm great at **react, node, data structures & algorithms**
+- 🏆 I'm great at **react, node, data structures & algorithms**
 
 - 📫 How to reach me **SimonNDao12@gmail.com**
 
