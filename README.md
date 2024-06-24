@@ -8,10 +8,10 @@
 
 <div>
   <ul>
-    <li>🏆 <strong>Experienced in</strong> frontend, backend, data structures & algorithms, robotics, computer vision, and game development</li>
-    <li>📄 <strong>My Resume</strong> <a href="https://drive.google.com/file/d/1C3m4x8E0L0P9g0IPvAorzHjRUXy3diGd/view?usp=sharing" target="_blank">here</a></li>
-    <li>📫 <strong>How to reach me</strong> <a href="mailto:SimonNDao12@gmail.com">SimonNDao12@gmail.com</a></li>
-    <li>🎨 <strong>Hobbies</strong> Rock Climbing, Kickboxing, Chess, Cooking</li>
+    <li>🏆 <strong>Experienced in:</strong> frontend, backend, data structures & algorithms, robotics, computer vision, and game development</li>
+    <li>📄 <strong>My Resume:</strong> <a href="https://drive.google.com/file/d/1C3m4x8E0L0P9g0IPvAorzHjRUXy3diGd/view?usp=sharing" target="_blank">here</a></li>
+    <li>📫 <strong>How to reach me:</strong> <a href="mailto:SimonNDao12@gmail.com">SimonNDao12@gmail.com</a></li>
+    <li>🎨 <strong>Hobbies:</strong> Rock Climbing, Kickboxing, Chess, Cooking</li>
   </ul>
 </div>
 
