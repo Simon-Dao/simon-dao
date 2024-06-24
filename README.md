@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon Dao</h1>
 
-![octocat-1719212489768](https://github.com/Simon-Dao/simon-dao/assets/55553313/485baf31-c6bd-431a-badc-17d121cec870)
+![octocat-1719212489768 (1)](https://github.com/Simon-Dao/simon-dao/assets/55553313/afd2230e-97d4-484e-8b87-c1c653dec7e6)
 
 <h3 align="center">A passionate computer science undergrad</h3>
 
