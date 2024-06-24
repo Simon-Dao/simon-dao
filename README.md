@@ -1,7 +1,9 @@
-<h3 align="center">A passionate computer science undergrad</h3>
+
 <div align="center">
   <img src="https://github.com/Simon-Dao/simon-dao/assets/55553313/f5525725-f404-46d7-bcc5-df289942c8bb" alt="Terminal GIF">
 </div>
+
+<h3 align="center">Hi👋 There</h3>
 - 🏆 I'm got experience with frontend, backend, data structures & algorithms, robotics, computer vision, and game development
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1C3m4x8E0L0P9g0IPvAorzHjRUXy3diGd/view?usp=sharing](https://drive.google.com/file/d/1C3m4x8E0L0P9g0IPvAorzHjRUXy3diGd/view?usp=sharing)
