@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Dao</h1>
+
+![octocat-1719212489768](https://github.com/Simon-Dao/simon-dao/assets/55553313/485baf31-c6bd-431a-badc-17d121cec870)
+
 <h3 align="center">A passionate computer science undergrad</h3>
 
 - 🌱 I’m currently learning **Machine Learning Specialization(Coursera)**
