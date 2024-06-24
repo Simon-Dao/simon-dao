@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Simon-Dao/simon-dao/assets/55553313/f510f3ff-5d78-4c58-b868-4c33ca38ae15" alt="Terminal GIF">
+  <img src="https://github.com/Simon-Dao/simon-dao/assets/55553313/6b854a4a-d86f-4e12-97e5-d8e704e45c64" alt="Terminal GIF">
 </div>
 
 <h3 align="center">Hi👋 There</h3>
