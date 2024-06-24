@@ -1,5 +1,4 @@
-![terminal](https://github.com/Simon-Dao/simon-dao/assets/55553313/0f68a9e4-c47d-4ad1-9bb4-0ec265df0cd2)
-
+<img width="460" height="300" src="https://picsum.photos/460/300](https://github.com/Simon-Dao/simon-dao/assets/55553313/0f68a9e4-c47d-4ad1-9bb4-0ec265df0cd2">
 <h3 align="center">A passionate computer science undergrad</h3>
 
 - 🏆 I'm got experience with frontend, backend, data structures & algorithms, robotics, computer vision, and game development
