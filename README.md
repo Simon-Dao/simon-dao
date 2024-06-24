@@ -8,9 +8,10 @@
 
 <div>
   <ul>
-    <li>🏆 Experienced in frontend, backend, data structures & algorithms, robotics, computer vision, and game development</li>
-    <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1C3m4x8E0L0P9g0IPvAorzHjRUXy3diGd/view?usp=sharing" target="_blank">here</a></li>
-    <li>📫 How to reach me: <a href="mailto:SimonNDao12@gmail.com">SimonNDao12@gmail.com</a></li>
+    <li>🏆 **Experienced in** frontend, backend, data structures & algorithms, robotics, computer vision, and game development</li>
+    <li>📄 **My Resume** <a href="https://drive.google.com/file/d/1C3m4x8E0L0P9g0IPvAorzHjRUXy3diGd/view?usp=sharing" target="_blank">here</a></li>
+    <li>📫 **How to reach me** <a href="mailto:SimonNDao12@gmail.com">SimonNDao12@gmail.com</a></li>
+    <li>🎨 **Hobbies** Rock Climbing, Kickboxing, Chess, Cooking</li>
   </ul>
 </div>
 
