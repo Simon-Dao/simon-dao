@@ -1,4 +1,4 @@
-# My Project
+# About Me
 
 <div align="center">
   <img src="https://github.com/Simon-Dao/simon-dao/assets/55553313/6b854a4a-d86f-4e12-97e5-d8e704e45c64" alt="Terminal GIF">
@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi👋 There</h2>
 
-<div align="center">
+<div>
   <ul>
     <li>🏆 Experienced in frontend, backend, data structures & algorithms, robotics, computer vision, and game development</li>
     <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1C3m4x8E0L0P9g0IPvAorzHjRUXy3diGd/view?usp=sharing" target="_blank">here</a></li>
