@@ -1,4 +1,4 @@
-![your_cool_intro (3)](https://github.com/Simon-Dao/simon-dao/assets/55553313/72b4be87-7f24-4821-beda-fa74a8bcdc84)
+![terminal](https://github.com/Simon-Dao/simon-dao/assets/55553313/0f68a9e4-c47d-4ad1-9bb4-0ec265df0cd2)
 
 <h3 align="center">A passionate computer science undergrad</h3>
 
