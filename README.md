@@ -10,7 +10,7 @@
   <ul>
     <h4>🏆 <strong>Experienced in:</strong> frontend, backend, data structures & algorithms, robotics, computer vision, and game development</h4>
      <h4>📄 <strong>My Personal Website:</strong> <a href="https://www.simondao.me/home" target="_blank">here</a></h4>
-    <h4>📄 <strong>My Resume:</strong> <a href="https://drive.google.com/file/d/1C3m4x8E0L0P9g0IPvAorzHjRUXy3diGd/view?usp=sharing" target="_blank">here</a></h4>
+    <h4>📄 <strong>My Resume:</strong> <a href="https://drive.google.com/file/d/13JOhnn3clOehxJQIRnf9KjbK0WdAz6Qe/view?usp=drive_link" target="_blank">here</a></h4>
     <h4>📫 <strong>How to reach me:</strong> <a href="mailto:SimonNDao12@gmail.com">SimonNDao12@gmail.com</a></h4>
     <h4>🎨 <strong>Hobbies:</strong> Rock Climbing, Kickboxing, Chess, Cooking</h4>
   </ul>
